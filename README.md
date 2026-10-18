@@ -58,23 +58,23 @@ The model assumes constant motor parameters and neglects friction, windage, and 
 
 The maximum mechanical power occurs at approximately half the stall torque and half the no-load speed, consistent with the ideal DC motor model.
 
-## Graphical Results
+## Results and Visualizations
 
-### 1. Torque-Speed Characteristic
+### Torque-Speed Characteristic
 
-![Torque-Speed Characteristic](torque_speed.png)
+![Torque-Speed Curve](figures/torque_speed_curve.png)
 
 This graph illustrates the linear decrease in motor speed as the load torque increases.
 
-### 2. Supply Voltage Comparison
+### Voltage Comparison
 
-![Voltage Comparison](voltage_comparison.png)
+![Voltage Comparison](figures/voltage_comparison.png)
 
 This graph compares the torque-speed characteristics at 12 V, 18 V, and 24 V. Increasing the supply voltage increases both the no-load speed and stall torque.
 
-### 3. Mechanical Power Analysis
+### Mechanical Power Analysis
 
-![Mechanical Power](mechanical_power.png)
+![Mechanical Power](figures/mechanical_power.png)
 
 This graph shows the relationship between torque and mechanical output power, including the maximum power operating point.
 
@@ -114,18 +114,6 @@ DC_Motor_Analysis/
 ## Conclusion
 
 This project demonstrates the fundamental steady-state behavior of a DC motor and provides a foundation for further studies in electric machines, motor control, and industrial automation.
-
-## Results and Visualizations
-
-### Torque-Speed Characteristic
-![Torque-Speed Curve](figures/torque_speed_curve.png)
-
-### Voltage Comparison
-![Voltage Comparison](figures/voltage_comparison.png)
-
-### Mechanical Power Analysis
-![Mechanical Power](figures/mechanical_power.png)
-
 
 Author
 Yağmur Baltacı
