@@ -115,5 +115,17 @@ DC_Motor_Analysis/
 
 This project demonstrates the fundamental steady-state behavior of a DC motor and provides a foundation for further studies in electric machines, motor control, and industrial automation.
 
+## Results and Visualizations
+
+### Torque-Speed Characteristic
+![Torque-Speed Curve](figures/torque_speed_curve.png)
+
+### Voltage Comparison
+![Voltage Comparison](figures/voltage_comparison.png)
+
+### Mechanical Power Analysis
+![Mechanical Power](figures/mechanical_power.png)
+
+
 Author
 Yağmur Baltacı
